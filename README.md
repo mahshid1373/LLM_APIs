@@ -29,6 +29,10 @@ This project involves the comprehensive analysis of RNA-Seq data from the 1000 G
   - **Homozygous Variants (1/1)**: Individuals who have two identical alleles for a particular SNP.
   - **Heterozygous Variants (1/0 or 0/1)**: Individuals who have two different alleles for a particular SNP.
   - **Homozygous Reference (0/0)**: Individuals who have two reference alleles, meaning they do not carry the variant.
+
+- **Figure 1:** Homozygous Variants Vs. Heterozygous Variants Vs. Homozygous Reference
+![Data Visualization](Figures/Homo-Hetro.png)
+
 - **Significance Filtering**: Applies statistical thresholds to identify SNPs with significant effects.
 - **Reproducibility**: Includes detailed instructions and scripts to replicate the analysis.
 
