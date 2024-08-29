@@ -1,6 +1,6 @@
 # RNA-Seq Analysis Project: Exploring the Impact of SNP Variants on Gene Expression
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=RNA-Seq+Analysis+Project)
+<!-- ![Project Banner](https://via.placeholder.com/1200x300.png?text=RNA-Seq+Analysis+Project) -->
 
 ## Table of Contents
 
@@ -8,11 +8,11 @@
 - [Features](#features)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-- [Usage](#usage)
+<!-- - [Usage](#usage) -->
 - [Workflow](#workflow)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+<!-- - [Contributing](#contributing) -->
+<!-- - [License](#license) -->
 - [Acknowledgements](#acknowledgements)
 
 ---
