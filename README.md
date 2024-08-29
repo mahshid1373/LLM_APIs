@@ -77,14 +77,6 @@ To replicate this project, you will need the following software and packages ins
      pip install notebook
      ```
 
-## Usage
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/rna-seq-analysis.git
-   cd rna-seq-analysis
-
-
 
 ## Acknowledgments
 - Mahshid Khatami [linkedin](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
