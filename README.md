@@ -45,6 +45,13 @@ So here is the pipeline of the project:
 
 ![Data Visualization](Figures/Pipeline.drawio.png)
 
+
+And here is the pipeline of the processing of data:
+- **Figure 4:** Data Processing Pipeline
+
+![Data Visualization](Figures/Data_Diagram.drawio.png)
+
+
 ## Data Sources
 
 1. **1000 Genomes Project**: 
