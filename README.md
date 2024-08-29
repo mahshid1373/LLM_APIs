@@ -8,11 +8,8 @@
 - [Features](#features)
 - [Data Sources](#data-sources)
 - [Installation](#installation)
-<!-- - [Usage](#usage) -->
 - [Workflow](#workflow)
 - [Results](#results)
-<!-- - [Contributing](#contributing) -->
-<!-- - [License](#license) -->
 - [Acknowledgements](#acknowledgements)
 
 ---
