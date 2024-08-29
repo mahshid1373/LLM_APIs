@@ -130,7 +130,7 @@ The results of this study highlight the complex interplay between genetic varian
 - **Figure 8:** Comparison between Our Project Result and Previous works
 ![Data Visualization](Figures/comparison_Elastic.png)
 
-The table appears to compare the ratio of predictive genes to total genes used across different models and studies.
+The table below compare the ratio of predictive genes to total genes used across different models and studies.
 | Threshold | Our Study SVM | Our Study RF | Our Study ENET | Our Study LM | Research ENET | Research LASSO | Research LM | Research LMM | Research BSLMM |
 |-----------|---------------|--------------|----------------|--------------|---------------|----------------|-------------|--------------|----------------|
 | 0.5       | 0.33          | 0.27         | 0.26           | 0.05         | 0.26          | 0.14           | 0.05        | 0.15         | 0.16           |
@@ -138,6 +138,16 @@ The table appears to compare the ratio of predictive genes to total genes used a
 | 0.2       | 0.03          | 0.03         | 0.04           | 0            | 0.04          | 0.03           | 0           | 0.02         | 0.03           |
 | 0.3       | 0             | 0.02         | 0.02           | 0            | 0.02          | 0.01           | 0           | 0.01         | 0.01           |
 | 0.4       | 0.005         | 0.005        | 0.005          | 0            | 0.005         | 0.005          | 0           | 0.004        | 0.005          |
+
+
+- **Figure 9:** Comparison of SNPs p_value in whole chromosomes
+![Data Visualization](Figures/whole_chromosome.jpeg)
+
+- **Figure 10:** A sample gene expression distribution in differenrt variants of a SNP
+![Data Visualization](Figures/SNP-gene.jpeg)
+
+- **Figure 11:** A sample gene expression distribution in differenrt variants of a SNP
+![Data Visualization](Figures/LDHC_GSTM.jpeg)
 
 ## Acknowledgments
 - Mahshid Khatami [linkedin](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
