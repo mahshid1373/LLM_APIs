@@ -82,6 +82,7 @@ To replicate this project, you will need the following software and packages ins
      pip install notebook
      ```
 
+you can also find other requierement in this project in the requieremnt.txt file in repository.
 
 ## Acknowledgments
 - Mahshid Khatami [linkedin](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
