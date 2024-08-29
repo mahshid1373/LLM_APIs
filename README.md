@@ -146,7 +146,7 @@ The table below compare the ratio of predictive genes to total genes used across
 - **Figure 10:** A sample gene expression distribution in differenrt variants of a SNP
 ![Data Visualization](Figures/SNP-gene.jpeg)
 
-- **Figure 11:** A sample gene expression distribution in differenrt variants of a SNP
+- **Figure 11:** A samplee gene expression distribution in differenrt variants of a SNP
 ![Data Visualization](Figures/LDHC_GSTM.jpeg)
 
 ## Acknowledgments
