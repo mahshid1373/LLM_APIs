@@ -25,6 +25,8 @@ This project involves the comprehensive analysis of RNA-Seq data from the 1000 G
 
 - **High-throughput RNA-Seq Data Analysis**: Efficiently processes RNA-Seq data using industry-standard tools.
 - **Gene Expression Quantification**: Utilizes `cufflinks` for accurate transcript assembly and quantification.
+![Data Visualization](Figures/Cufflinks.png)
+
 - **Variant Impact Assessment**: Performs ANOVA to assess the impact of SNP variants (1/1, 1/0 or 0/1, 0/0) on gene expression.
   - **Homozygous Variants (1/1)**: Individuals who have two identical alleles for a particular SNP.
   - **Heterozygous Variants (1/0 or 0/1)**: Individuals who have two different alleles for a particular SNP.
