@@ -46,7 +46,7 @@ So here is the pipeline of the project:
 ![Data Visualization](Figures/Pipeline.drawio.png)
 
 
-And heree is the pipeline of the processing of data:
+And here is the pipeline of the processing of data:
 - **Figure 4:** Data Processing Pipeline
 
 ![Data Visualization](Figures/Data_Diagram.drawio.png)
