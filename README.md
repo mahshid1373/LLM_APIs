@@ -130,5 +130,14 @@ The results of this study highlight the complex interplay between genetic varian
 - **Figure 8:** Comparison between Our Project Result and Previous works
 ![Data Visualization](Figures/comparison_Elastic.png)
 
+The table appears to compare the ratio of predictive genes to total genes used across different models and studies.
+| Threshold | Our Study SVM | Our Study RF | Our Study ENET | Our Study LM | Research ENET | Research LASSO | Research LM | Research LMM | Research BSLMM |
+|-----------|---------------|--------------|----------------|--------------|---------------|----------------|-------------|--------------|----------------|
+| 0.5       | 0.33          | 0.27         | 0.26           | 0.05         | 0.26          | 0.14           | 0.05        | 0.15         | 0.16           |
+| 0.1       | 0.09          | 0.12         | 0.13           | 0.005        | 0.13          | 0.07           | 0.005       | 0.07         | 0.08           |
+| 0.2       | 0.03          | 0.03         | 0.04           | 0            | 0.04          | 0.03           | 0           | 0.02         | 0.03           |
+| 0.3       | 0             | 0.02         | 0.02           | 0            | 0.02          | 0.01           | 0           | 0.01         | 0.01           |
+| 0.4       | 0.005         | 0.005        | 0.005          | 0            | 0.005         | 0.005          | 0           | 0.004        | 0.005          |
+
 ## Acknowledgments
 - Mahshid Khatami [linkedin](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
