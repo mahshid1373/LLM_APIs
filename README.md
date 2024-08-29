@@ -42,6 +42,7 @@ This project involves the comprehensive analysis of RNA-Seq data from the 1000 G
 
 So here is the pipeline of the project:
 - **Figure 3:** Project Pipeline
+
 ![Data Visualization](Figures/Pipeline.drawio.png)
 
 ## Data Sources
