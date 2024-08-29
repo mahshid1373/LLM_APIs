@@ -124,5 +124,11 @@ The results of this study highlight the complex interplay between genetic varian
 - **Figure 6:** Test Data
 ![Data Visualization](Figures/Test_R2.png)
 
+- **Figure 7:** ML Models Comparison
+![Data Visualization](Figures/ML_comparison.png)
+
+- **Figure 8:** Comparison between Our Project Result and Previous works
+![Data Visualization](Figures/comparison_Elastic.png)
+
 ## Acknowledgments
 - Mahshid Khatami [linkedin](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
